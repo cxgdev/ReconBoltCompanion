@@ -1,1 +1,1 @@
-# Recon Bolt Companion App
+# Recon Bolt Companion App by CXG
